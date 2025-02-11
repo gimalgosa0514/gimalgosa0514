@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gimalgosa0514})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gimal_gosa})](https://solved.ac/{handle})
 
